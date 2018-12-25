@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">翼优生活</string>
+    <string name="CHANELID">com.yy.client.123456</string>
+    <string name="settingDetail">{"在设置-应用-翼优生活-权限中开启存储空间权限，以正常使用App功能"}</string>
+
+</resources>
